@@ -17,4 +17,4 @@ public class pattern3 {
         }
         sc.close();
     }
-}
+} 
