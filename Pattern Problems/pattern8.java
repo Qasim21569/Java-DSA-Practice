@@ -1,3 +1,5 @@
+// Pattern: Right-angled triangle of numbers increasing row-wise.
+
 import java.util.Scanner;
 
 public class pattern8 {

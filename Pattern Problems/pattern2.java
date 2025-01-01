@@ -1,3 +1,5 @@
+//Inverted right aligned triangle of stars pattern
+
 import java.util.Scanner;
 
 public class pattern2 {

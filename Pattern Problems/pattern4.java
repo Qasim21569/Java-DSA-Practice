@@ -1,3 +1,5 @@
+//Full pyramid of stars pattern
+
 import java.util.Scanner;
 
 public class pattern4 {

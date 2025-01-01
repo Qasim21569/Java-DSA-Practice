@@ -1,3 +1,5 @@
+//Inverted left-aligned traingle of stars pattern
+
 import java.util.Scanner;
 
 public class pattern3 {

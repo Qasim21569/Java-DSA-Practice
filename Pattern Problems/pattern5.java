@@ -1,3 +1,5 @@
+//Inverted full pyramid of stars pattern
+
 import java.util.Scanner;
 
 public class pattern5 {

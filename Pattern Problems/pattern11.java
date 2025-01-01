@@ -1,3 +1,5 @@
+//Diamon Number Pattern
+
 import java.util.Scanner;
 
 public class pattern11 {

@@ -1,3 +1,5 @@
+// Pattern: Pyramid of numbers with mirrored digits, expanding outward from the center.
+
 import java.util.Scanner;
 
 public class pattern7 {
