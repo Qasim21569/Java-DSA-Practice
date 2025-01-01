@@ -1,3 +1,4 @@
+
 //Full pyramid of stars pattern
 
 import java.util.Scanner;
@@ -16,7 +17,9 @@ public class pattern4 {
                 System.out.print("*");
             }
             System.out.println();
+
         }
-        sc.close();
+
     }
+
 }

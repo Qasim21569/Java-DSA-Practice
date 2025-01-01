@@ -1,3 +1,4 @@
+
 //Right aligned triangle of stars pattern
 
 import java.util.Scanner;
@@ -7,6 +8,9 @@ public class pattern1 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the number of rows:");
+
+        System.out.println("Enter the number of rows:");
+
         int n = scanner.nextInt();
 
         for (int i = 1; i <= n; i++) {

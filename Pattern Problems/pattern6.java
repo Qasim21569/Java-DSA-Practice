@@ -1,3 +1,4 @@
+
 //Diamond of stars pattern
 
 import java.util.Scanner;
