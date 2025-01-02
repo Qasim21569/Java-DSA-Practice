@@ -20,8 +20,8 @@ public class array6 {
          * main logic to fnd second largest element, (Integer.MIN_VALUE is just
          * the lowest known value java knows)
          */
-        int largest = 0;
-        int secondLargest = 0;
+        int largest = Integer.MIN_VALUE;
+        int secondLargest = Integer.MIN_VALUE;
 
         for (int i = 0; i < n; i++) {
             if (arr[i] > largest) {
@@ -33,7 +33,7 @@ public class array6 {
         }
         // Printing the result
 
-        if (secondLargest == 0) {
+        if (secondLargest == Integer.MIN_VALUE) {
             System.out.println("No second largest element found");
         } else {
             System.out.println("The second largest element is: " + secondLargest);
