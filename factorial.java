@@ -21,3 +21,4 @@ public class factorial {
         scanner.close();
     }
 }
+//new logic code
