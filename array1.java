@@ -11,3 +11,4 @@ public class array1 {
 
     }
 }
+//this is an upadted code
